@@ -2,7 +2,7 @@
 An algorithm visualization tool made using Html, CSS, and Vanilla JS, that contains basic algorithms like
 Sorting (Bubble, Quick, selection, Insertion, Merge, Heap), Searching (Linear, Binary) .
 
-TECH-STACK – Html, Css, Javascript, Bootstrap, Vercel (Hosting
+TECH-STACK – Html, Css, Javascript, Bootstrap, Vercel (Hosting)
 
 
 https://user-images.githubusercontent.com/71213649/170864206-30e40b89-b5c5-4a0a-881b-d398597b11ea.mov
