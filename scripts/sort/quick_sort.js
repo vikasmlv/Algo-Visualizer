@@ -58,7 +58,7 @@ function quick_partition (start, end)
 
 function quick_sort (start, end )
 {
-    if( start > end )
+    if( start < end )
     {
         //stores the position of pivot element
         var piv_pos = quick_partition (start, end ) ;     
